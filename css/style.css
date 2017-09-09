@@ -1,0 +1,35 @@
+.contact-text {
+    color: white;
+}
+.contact-header {
+    margin-top: -3em !important;
+}
+.intro-lead-in {
+    color: black;
+    font-weight: 900;
+}
+.navbar-brand {
+    color: deeppink !important;
+}
+.nav-link:hover {
+    color: deeppink !important;
+}
+.nav {
+    background-color: #222;
+}
+.headshot {
+    border-radius: 6.5em;
+}
+.service-circle {
+    color: deeppink !important;
+}
+.right {
+    float: right !important;
+    margin-top: -10em;
+}
+.copyright a {
+    color: deeppink;
+}
+.copyright a:hover {
+    color: black;
+}
